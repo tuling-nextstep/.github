@@ -1,4 +1,4 @@
-<img src="https://z1.ax1x.com/2023/11/26/pi0Npz8.png" alt="Tuling Anniversary" width="50%" height="50%">
+<img src="http://xctmit.fun/tuling_anniversary.png" alt="Tuling Anniversary" width="65%" height="65%">
 
 ## 途灵五周年，从「芯」开始
 
